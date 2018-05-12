@@ -1,0 +1,30 @@
+_repo: A-History-of-the-Reformation--Vol.-2-of-2-_40798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lindsay, Thomas M. (Thomas Martin)
+    alias: Lindsay, T. M. (Thomas Martin)
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '40731'
+    url: http://www.gutenberg.org/2009/agents/40731
+description: ''
+gutenberg_issued: '2012-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Counter-Reformation'
+- !lcc 'BR'
+- !lcsh 'Reformation'
+- !lcsh 'Anabaptists'
+- !lcsh 'Socinianism'
+title: A History of the Reformation (Vol. 2 of 2)
+url: http://www.gutenberg.org/ebooks/40798
